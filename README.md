@@ -1,9 +1,5 @@
 ### - Hello there random internet person -
-I'm a fourth year computer science student at Queens University! 
-
-Some of the languages I excel at are: Python, Java, C#, Javascript, GML, Haskell, Prolog, and Pascal (Thanks CISC 458)
-
-If I'm being entirely honest, I'm writing this at 4am after realizing I don't have a readme on my github page so I'll skip the wordplay and get to the point:
+I'm a fourth year computer science student at Queens University! Some of the languages I excel at are: Python, Java, C#, Javascript, GML, Haskell, Prolog, and Pascal. (Thanks CISC 458) If I'm being entirely honest, I'm writing this at 4am after realizing I don't have a readme on my github page so I'll skip the wordplay and get to the point:
 
 🤖 Artificial Intelligence - I specialize in AI! While I still have a long ways to go, I've had a blast getting familiar implementing models from various branches of machine learning over the past few years.
 
@@ -11,7 +7,7 @@ If I'm being entirely honest, I'm writing this at 4am after realizing I don't ha
 
 I'm gonna add more to this readme in the morning but for the time being, here's a picture of a Westie that according to google image search, has a creative commons license.
 
-![Dog!](images/Westie.jpg)
+![Dog](images/westie.jpg)
 <!--
 **lucster10/lucster10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
