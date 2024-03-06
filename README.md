@@ -11,7 +11,7 @@ If I'm being entirely honest, I'm writing this at 4am after realizing I don't ha
 
 I'm gonna add more to this readme in the morning but for the time being, here's a picture of a Westie that according to google image search, has a creative commons license.
 
-(images/Westie.jpg)
+![Dog!](images/Westie.jpg)
 <!--
 **lucster10/lucster10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
