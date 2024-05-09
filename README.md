@@ -3,7 +3,7 @@ I'm a fourth year computer science student at Queens University! Some of the lan
 
 I specialize in AI and have a passion for game development. I don't know what else to put so here's a blurry photo of my dog Stanley!
 
-![Dog](images/stanley.jpg)
+<img src="images/stanley" alt="Dog" width="200"/>
 <!--
 **lucster10/lucster10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
