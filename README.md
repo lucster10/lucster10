@@ -1,7 +1,9 @@
 ### Hi!
 I'm a fourth year computer science student at Queens University! Some of the languages I excel at are: Python, Java, C#, Javascript, GML, Haskell, Prolog, and Pascal. (Thanks CISC 458)
 
-I specialize in AI and have a passion for game development. I don't know what else to put so here's a blurry photo of my dog Stanley!
+I specialize in AI and have a passion for game development. 
+
+This is [my resumé](https://lucster10.github.io/resume/Lucas-Patoine-Resume-2024.pdf) and here's a photo of my dog Stanley!
 
 <img src="images/stanley.jpg" alt="Dog" width="200"/>
 <!--
