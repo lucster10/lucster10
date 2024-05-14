@@ -3,7 +3,7 @@ I'm a fourth year computer science student at Queens University! Some of the lan
 
 I specialize in AI and have a passion for game development. 
 
-This is <a href="https://lucster10.github.io/resume/Lucas-Patoine-Resume-2024.pdf"  target="_blank">my resumé</a> and here's a photo of my dog Stanley!
+This is [my resumé]("https://lucster10.github.io/resume/Lucas-Patoine-Resume-2024.pdf"){:target="_blank"} and here's a photo of my dog Stanley!
 
 <img src="images/stanley.jpg" alt="Dog" width="200"/>
 <!--
